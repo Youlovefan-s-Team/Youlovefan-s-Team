@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.czs233.club/"/>
-  <updated>2020-04-18T06:40:28.769Z</updated>
+  <updated>2020-04-18T09:30:30.593Z</updated>
   <id>http://blog.czs233.club/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FishingBot中文汉化文件</title>
+    <link href="http://blog.czs233.club/2020/04/18/config/"/>
+    <id>http://blog.czs233.club/2020/04/18/config/</id>
+    <published>2020-04-18T09:25:45.000Z</published>
+    <updated>2020-04-18T09:30:30.593Z</updated>
+    
+    <content type="html"><![CDATA[<p>前几天向岩浆块求教得到了个钓鱼机器人的配置文件，顺手汉化了下。<br>另外未经他允许丢到岩浆云上头去了:D 侵删吧。<br><a href="http://pan.magmablock.top:36171/index.php?share/file&user=101&sid=utymVwEW">下载链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前几天向岩浆块求教得到了个钓鱼机器人的配置文件，顺手汉化了下。&lt;br&gt;另外未经他允许丢到岩浆云上头去了:D 侵删吧。&lt;br&gt;&lt;a href=&quot;http://pan.magmablock.top:36171/index.php?share/file&amp;user=101&amp;sid=
+      
+    
+    </summary>
+    
+    
+      <category term="MC" scheme="http://blog.czs233.club/categories/MC/"/>
+    
+    
+      <category term="MC" scheme="http://blog.czs233.club/tags/MC/"/>
+    
+      <category term="翻译" scheme="http://blog.czs233.club/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="Java技术" scheme="http://blog.czs233.club/tags/Java%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>czs233看：PDL作者被抓</title>
