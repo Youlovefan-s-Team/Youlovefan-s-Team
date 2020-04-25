@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.czs233.club/"/>
-  <updated>2020-04-18T13:30:09.899Z</updated>
+  <updated>2020-04-25T01:04:48.724Z</updated>
   <id>http://blog.czs233.club/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一点关于熊猫市的学生的看法</title>
+    <link href="http://blog.czs233.club/2020/04/25/Study/"/>
+    <id>http://blog.czs233.club/2020/04/25/Study/</id>
+    <published>2020-04-25T00:20:45.000Z</published>
+    <updated>2020-04-25T01:04:48.724Z</updated>
+    
+    <content type="html"><![CDATA[<p>复课之后马上便来了一次考试。<br>成绩不太重要，只需要知道语文不好:(<br>不出所料地被语文老师骂了一顿。</p><a id="more"></a><h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>咱班最高分119.5(不是我)，隔壁班高了一大截:(<br>就连另一个校区都说“本部只有一个班可以跟我们比辽”(肯定不是我们班x)<br>语文老师Po了数据：</p><ul><li>普通高中升学率 37%</li><li>重点高中升学率 <strong>15%</strong><br>我第一次看到这个数据的时候吐了:-(,升学率这么低么？<br>果不其然。自己去查了一波数据<blockquote><p>成都商报-红星新闻记者首先找到了备受家长们关注和质疑的网文，文中称：根据“2018年成都‘5+2’区域分数段统计表”，“2018年成都‘5+2’区域参加中考的统招生人数为21343人，达到重点线543分的仅有8644人，重高率达40.5%；达到普通线506分的共12363人，普高率达57.9%。”</p></blockquote></li></ul><p>所以有些时候，数据还是自己去查好。<br>这个数据也证明了，那场大考远远比自己想象的激烈</p><h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>每天早上走进教室，我们班里一定有两个人坐着。<br>这两人很神奇，考完试嚎啕大哭“我考砸了”，成绩出来必定班级第一第二。<br>这就是努力吗？wsl</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;复课之后马上便来了一次考试。&lt;br&gt;成绩不太重要，只需要知道语文不好:(&lt;br&gt;不出所料地被语文老师骂了一顿。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="http://blog.czs233.club/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>FishingBot中文汉化文件</title>
@@ -64,9 +85,9 @@
     
       <category term="czs233看x" scheme="http://blog.czs233.club/tags/czs233%E7%9C%8Bx/"/>
     
-      <category term="法学" scheme="http://blog.czs233.club/tags/%E6%B3%95%E5%AD%A6/"/>
-    
       <category term="PD" scheme="http://blog.czs233.club/tags/PD/"/>
+    
+      <category term="法学" scheme="http://blog.czs233.club/tags/%E6%B3%95%E5%AD%A6/"/>
     
   </entry>
   
